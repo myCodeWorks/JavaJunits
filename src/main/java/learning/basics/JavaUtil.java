@@ -4,7 +4,7 @@ import java.util.*;
 
 public class JavaUtil {
 
-    public static void listStructure() {
+    public static void listData() {
         List<Integer> arrayList = new ArrayList<>();
 
         arrayList.add(123);
@@ -30,7 +30,7 @@ public class JavaUtil {
         }
     }
 
-    public static void setStructure() {
+    public static void setData() {
         //do not allow duplicates
         Set<Integer> hashSet = new HashSet<>();
 
@@ -90,7 +90,7 @@ public class JavaUtil {
         return students;
     }
 
-    public static void mapStructure(){
+    public static void mapData(){
         Map<Long,Student> students = populateStudentData();
         System.out.println();
         for (Map.Entry<Long,Student> entry:students.entrySet()
@@ -101,8 +101,8 @@ public class JavaUtil {
     }
 
     public static void main(String[] args) {
-        listStructure();
-        setStructure();
-        mapStructure();
+        listData();
+        setData();
+        mapData();
     }
 }
