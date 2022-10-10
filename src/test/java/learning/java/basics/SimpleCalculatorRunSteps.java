@@ -1,4 +1,4 @@
-package dev.codeworks.java;
+package learning.java.basics;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import org.hamcrest.Matchers;

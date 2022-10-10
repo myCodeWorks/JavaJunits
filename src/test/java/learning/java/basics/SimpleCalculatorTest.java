@@ -1,4 +1,4 @@
-package dev.codeworks.java;
+package learning.java.basics;
 
 import junit.framework.TestCase;
 
