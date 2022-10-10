@@ -1,4 +1,4 @@
-package learning.java.basics;
+package learning.basics;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import org.hamcrest.Matchers;

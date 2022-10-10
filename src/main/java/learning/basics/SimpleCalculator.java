@@ -1,4 +1,4 @@
-package learning.java.basics;
+package learning.basics;
 
 public class SimpleCalculator {
     public double addTwoNumbers(double numberOne, double numberTwo) {

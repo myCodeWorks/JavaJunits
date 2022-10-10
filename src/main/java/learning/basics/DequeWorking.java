@@ -1,4 +1,4 @@
-package learning.java.basics;
+package learning.basics;
 
 import java.util.ArrayDeque;
 
