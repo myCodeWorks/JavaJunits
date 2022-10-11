@@ -85,7 +85,7 @@ public class JavaUtil {
         stud2.setSubjects(subjects);
         populateMarks(stud2,43,47,66);
         stud3.setSubjects(subjects);
-        populateMarks(stud3,79,67,46);
+        populateMarks(stud3,81,67,46);
 
         return students;
     }
